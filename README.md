@@ -1,2 +1,2 @@
 # demo-repo
-Llearning how to use git
+Learning how to use git
